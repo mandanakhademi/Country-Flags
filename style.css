@@ -20,7 +20,7 @@ html, body{
     margin: auto;
 }
 
-.country-box{
+.country-information{
     flex: 1;  
     display: flex; 
     width: 100%;
